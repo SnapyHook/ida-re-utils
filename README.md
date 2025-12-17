@@ -36,7 +36,7 @@ Useful for:
 
 ## Environment
 
-- IDA Pro 9.2
+- IDA Pro 9.x
 - Python (IDA embedded)
 - ARM64 binaries
 
