@@ -1,0 +1,5 @@
+[+] Match at 0x7FF6A1234
+    Function: sub_401230 (0x401230 - 0x4012F0)
+
+[+] Function sub_401230 @ 0x401230 - 0x4012F0 (192 bytes)
+FD 7B BF A9 FD 03 00 91 ...
